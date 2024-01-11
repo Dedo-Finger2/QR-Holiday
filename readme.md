@@ -28,7 +28,7 @@ O sistema atualiza automaticamente todos os dias e valida a data atual comparand
 
 ### 3.1 - QR Code da aplicação
 
-<img src="img/qrCode.png" style="width: 200px;">
+<img src="img/QRHoliday.png" style="width: 200px;">
 
 ## 4 - Implementações futuras
 
