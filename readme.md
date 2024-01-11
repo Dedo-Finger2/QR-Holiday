@@ -19,30 +19,18 @@ O sistema atualiza automaticamente todos os dias e valida a data atual comparand
 - GitHub & Git;
 - GitHub Pages - *Hospedagem;*
 
-## 3 - Fontes usadas
-
-
-- [Generate Customized QR Codes | QR.io](https://qr.io/)
-  - **Usado para criar um QR Code para o projeto**
-
-- [Calendário de Feriados 2024 - Calendarr](https://www.calendarr.com/brasil/feriados-2024/)
-  - **Usado para pegar as datas comemorativas**
-
-- [ChatGPT](https://chat.openai.com/)
-  - **Usado para criar um JSON com todas as datas seguindo um formato solicitado**
-
-## 4 - Requisitos
+## 3 - Requisitos
 
 - Não recarregar a página para mostrar se há ou não feriado;
 - Mostrar datas comemorativas também;
 - Listar todos os feriados / datas comemorativas do dia caso haja mais de uma;
 - Criar um QR Code para o link de hospedagem do site;
 
-### 4.1 - QR Code da aplicação
+### 3.1 - QR Code da aplicação
 
 <img src="img/qrCode.png" style="width: 200px;">
 
-## 5 - Implementações futuras
+## 4 - Implementações futuras
 
 - Melhor estilização e responsividade;
 - Mostrar o dia do próximo feriado;
