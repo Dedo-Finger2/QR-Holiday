@@ -1,6 +1,6 @@
-<div style="align: center;">
+<div align="center">
   <h1>QR Holiday</h1>
-  <img src="./public/img/Logo.png" style="width: 200px;">
+  <img src="img/Logo.png" style="width: 200px;">
 </div>
 
 ## 1 - Descrição
@@ -21,26 +21,15 @@ O sistema atualiza automaticamente todos os dias e valida a data atual comparand
 
 ## 3 - Fontes usadas
 
-<aside>
-🗣️ **Usado para criar um QR Code para o projeto**
 
-[Generate Customized QR Codes | QR.io](https://qr.io/)
+- [Generate Customized QR Codes | QR.io](https://qr.io/)
+  - **Usado para criar um QR Code para o projeto**
 
-</aside>
+- [Calendário de Feriados 2024 - Calendarr](https://www.calendarr.com/brasil/feriados-2024/)
+  - **Usado para pegar as datas comemorativas**
 
-<aside>
-🗣️ **Usado para pegar as datas comemorativas**
-
-[Calendário de Feriados 2024 - Calendarr](https://www.calendarr.com/brasil/feriados-2024/)
-
-</aside>
-
-<aside>
-🗣️ **Usado para criar um JSON com todas as datas seguindo um formato solicitado**
-
-[ChatGPT](https://chat.openai.com/)
-
-</aside>
+- [ChatGPT](https://chat.openai.com/)
+  - **Usado para criar um JSON com todas as datas seguindo um formato solicitado**
 
 ## 4 - Requisitos
 
@@ -51,7 +40,7 @@ O sistema atualiza automaticamente todos os dias e valida a data atual comparand
 
 ### 4.1 - QR Code da aplicação
 
-<img src="./public/img/qrCode.png" style="width: 200px;">
+<img src="img/qrCode.png" style="width: 200px;">
 
 ## 5 - Implementações futuras
 
