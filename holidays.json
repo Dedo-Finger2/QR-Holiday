@@ -1,0 +1,3063 @@
+{
+  "01/01/2024": {
+    "weekday": "SEG",
+    "holidays": ["Ano-Novo", "Dia da Confraternização Universal (1º de janeiro) FERIADO", "Dia Mundial da Paz"]
+  },
+  "02/01/2024": {
+    "weekday": "SEG",
+    "holidays": ["São Basílio Magno", "Dia do Sanitarista", "Dia Mundial do Introvertido", "Dia do Confeiteiro"]
+  },
+  "03/01/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia do Juiz de Menores"]
+  },
+  "04/01/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia Nacional da Abreugrafia", "Dia Mundial do Braille", "Dia do Hemofílico"]
+  },
+  "05/01/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia da Criação da Primeira Tipografia no Brasil", "Dia de São Nepomuceno Neumann"]
+  },
+  "06/01/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia de Reis", "Dia do Astrólogo", "Dia da Gratidão"]
+  },
+  "07/01/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia do Leitor", "Dia da Liberdade de Cultos"]
+  },
+  "08/01/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia do Fotógrafo"]
+  },
+  "09/01/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia do Astronauta", "Dia do Fico"]
+  },
+  "10/01/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia de São Gonçalo de Amarante"]
+  },
+  "11/01/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia do Controle da Poluição por Agrotóxicos"]
+  },
+  "12/01/2024": {
+    "weekday": "SEX",
+    "holidays": ["Aniversário de Belém", "Dia Nacional do Empresário Contábil"]
+  },
+  "13/01/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia de Santo Hilário de Poitiers"]
+  },
+  "14/01/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia Mundial da Lógica", "Dia do Enfermo", "Dia do Treinador de Futebol"]
+  },
+  "15/01/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia do Compositor", "Dia do Adulto", "Dia Nacional do Jogo Limpo e de Combate ao Doping nos Esportes", "Dia de Santo Amaro"]
+  },
+  "16/01/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia de São Marcelo, Papa", "Dia do Cortador de Cana-de-Açúcar"]
+  },
+  "17/01/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia dos Tribunais de Contas do Brasil", "Aniversário da Emancipação do Ceará", "Dia de Santo Antão"]
+  },
+  "18/01/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia do Esteticista", "Dia da Manicure", "Dia da Universidade", "Dia Internacional do Riso", "Dia Nacional do Krav Maga"]
+  },
+  "19/01/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia do Cabeleireiro", "Dia de São Canuto", "Dia do Passista"]
+  },
+  "20/01/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia do Farmacêutico", "Dia de São Sebastião", "Dia Nacional do Fusca", "Dia Nacional da Parteira Tradicional"]
+  },
+  "21/01/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia Mundial da Religião", "Dia Nacional de Combate à Intolerância Religiosa"]
+  },
+  "23/01/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia Internacional da Medicina Integrativa", "Dia de Santo Ildefonso"]
+  },
+  "24/01/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia dos Aposentados", "Dia Mundial da Cultura Africana e Afrodescendente", "Dia Internacional da Educação", "Dia da Previdência Social"]
+  },
+  "25/01/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia do Carteiro", "Dia dos Correios e Telégrafos", "Dia Nacional da Bossa Nova", "Aniversário de São Paulo"]
+  },
+  "26/01/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia da Gula", "Dia Internacional das Aduanas", "Dia de São Timóteo", "Dia Mundial da Educação Ambiental"]
+  },
+  "27/01/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia Internacional em Memória das Vítimas do Holocausto", "Dia do Orador", "Dia Internacional do Conservador-Restaurador"]
+  },
+  "28/01/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia Internacional da Proteção de Dados", "Dia do Portuário", "Dia Nacional do Auditor-Fiscal do Trabalho", "Dia Nacional de Combate ao Trabalho Escravo", "Dia de São Tomás de Aquino", "Dia Nacional de Combate e Prevenção da Hanseníase", "Dia do Comércio Exterior", "Dia Mundial contra a Hanseníase"]
+  },
+  "29/01/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia Nacional da Visibilidade Trans"]
+  },
+  "30/01/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia da Saudade", "Dia Nacional das Histórias em Quadrinhos", "Dia do Padrinho", "Dia Mundial da Não-Violência e Cultura de Paz"]
+  },
+  "31/01/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia do Mágico", "Dia de São João Bosco", "Dia Nacional das Reservas Particulares do Patrimônio Natural", "Dia do Engenheiro Ambiental"]
+  },
+  "01/02/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia do Publicitário"]
+  },
+  "02/02/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia de Iemanjá", "Dia de Nossa Senhora dos Navegantes", "Dia do Agente Fiscal", "Dia Mundial das Zonas Úmidas"]
+  },
+  "03/02/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia de São Brás"]
+  },
+  "04/02/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia do Amigo do Facebook", "Dia Mundial do Câncer", "Aniversário de Macapá", "Dia Internacional da Fraternidade Humana"]
+  },
+  "05/02/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia do Datiloscopista", "Dia Nacional da Mamografia", "Dia do Dermatologista", "Dia Mundial da Nutella"]
+  },
+  "06/02/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia da Internet Segura", "Dia do Agente de Defesa Ambiental", "Dia Internacional da Tolerância Zero à Mutilação Genital Feminina"]
+  },
+  "07/02/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia do Gráfico", "Dia Nacional de Luta dos Povos Indígenas"]
+  },
+  "08/02/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia do Magistério Militar"]
+  },
+  "09/02/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia do Frevo em Pernambuco"]
+  },
+  "10/02/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia do Atleta Profissional", "Ano-Novo Chinês", "Dia Mundial das Leguminosas"]
+  },
+  "11/02/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia do Zelador", "Dia Mundial do Enfermo", "Dia de Nossa Senhora de Lourdes", "Dia Internacional das Mulheres e Meninas na Ciência"]
+  },
+  "12/02/2024": {
+    "weekday": "SEG",
+    "holidays": ["Segunda-feira de Carnaval PONTO FACULTATIVO", "Dia de Darwin", "Dia Internacional da Epilepsia"]
+  },
+  "13/02/2024": {
+    "weekday": "TER",
+    "holidays": ["Carnaval PONTO FACULTATIVO", "Dia Mundial do Rádio", "Dia do Serviço de Assistência Religiosa do Exército", "Dia Internacional do Preservativo"]
+  },
+  "14/02/2024": {
+    "weekday": "QUA",
+    "holidays": ["Quarta-feira de Cinzas (Ponto Facultativo até as 14h) PONTO FACULTATIVO", "Quaresma", "Dia de São Valentim", "Dia Mundial do Amor", "Dia do Botonista", "Dia Internacional da Doação de Livros"]
+  },
+  "15/02/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia Internacional de Luta contra o Câncer Infantil"]
+  },
+  "16/02/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia do Repórter"]
+  },
+  "17/02/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia Mundial do Gato"]
+  },
+  "18/02/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia Nacional de Combate ao Alcoolismo", "Dia Internacional da Síndrome de Asperger"]
+  },
+  "19/02/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia do Esportista", "Dia de São Conrado", "Dia Mundial da Baleia"]
+  },
+  "20/02/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia Mundial da Justiça Social", "Dia Nacional de Combate às Drogas e Alcoolismo"]
+  },
+  "21/02/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia Nacional do Imigrante Italiano", "Dia Internacional da Língua Materna"]
+  },
+  "22/02/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia Internacional do Maçom", "Dia do Auxiliar de Serviços Gerais"]
+  },
+  "23/02/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia Nacional do Movimento Municipalista Brasileiro", "Dia Nacional do Rotary"]
+  },
+  "24/02/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Promulgação da Primeira Constituição Republicana", "Dia da Conquista do Voto Feminino no Brasil"]
+  },
+  "25/02/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia da Criação do Ministério das Comunicações"]
+  },
+  "26/02/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia de Santo Alexandre"]
+  },
+  "27/02/2024": {
+    "weekday": "TER",
+    "holidays": ["Dia do Agente Fiscal da Receita Federal", "Dia do Livro Didático", "Dia de São Leandro"]
+  },
+  "28/02/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia da Ressaca", "Dia de São Romão e Lupicino", "Dia Mundial de combate a LER/DORT"]
+  },
+  "29/02/2024": {
+    "weekday": "QUI",
+    "holidays": ["Dia Mundial da Doença Rara"]
+  },
+  "01/03/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Aniversário do Rio de Janeiro",
+      "Dia Mundial da Oração",
+      "Dia Mundial de Zero Discriminação",
+      "Dia das Crianças Doentes",
+      "Dia Pan-Americano de Turismo",
+      "Dia do Turismo Ecológico"
+    ]
+  },
+  "03/03/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial da Vida Selvagem",
+      "Dia do Corpo de Intendentes da Marinha",
+      "Dia do Médico Otorrinolaringologista",
+      "Dia Mundial da Audição",
+      "Dia Mundial dos Defeitos do Nascimento"
+    ]
+  },
+  "04/03/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Mundial da Obesidade",
+      "Dia Mundial da Engenharia para o Desenvolvimento Sustentável",
+      "Dia Internacional da Conscientização sobre o HPV"
+    ]
+  },
+  "05/03/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Filatelista Brasileiro",
+      "Dia Nacional da Música Clássica",
+      "Dia da Integração Cooperativista",
+      "Dia Internacional do Desarmamento e Conscientização sobre a Não-Proliferação",
+      "Dia Mundial da Eficiência Energética"
+    ]
+  },
+  "07/03/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Paleontólogo",
+      "Dia do Fuzileiro Naval",
+      "Dia Nacional da Advocacia Pública"
+    ]
+  },
+  "08/03/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia Internacional da Mulher | 8 de Março"]
+  },
+  "09/03/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Dia Mundial do DJ"]
+  },
+  "10/03/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Sogro",
+      "Dia do Telefone",
+      "Dia do Conservador",
+      "Dia da Sociedade dos Amigos do Bairro",
+      "Dia Nacional de Combate ao Sedentarismo",
+      "Dia Internacional das Juízas"
+    ]
+  },
+  "11/03/2024": {
+    "weekday": "SEG",
+    "holidays": ["Início do Ramadã 2024 (termina em 10 de abril)"]
+  },
+  "12/03/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Mundial Contra a Cibercensura",
+      "Dia do Bibliotecário",
+      "Aniversário de Recife",
+      "Dia Mundial do Glaucoma"
+    ]
+  },
+  "13/03/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia do Conservacionismo"]
+  },
+  "14/03/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Pi",
+      "Dia do Vendedor de Livros",
+      "Dia da Incontinência Urinária",
+      "Dia Nacional dos Animais",
+      "Dia Mundial do Rim",
+      "Dia Internacional de Luta contra as Barragens",
+      "Dia Internacional da Matemática"
+    ]
+  },
+  "15/03/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia da Escola",
+      "Dia Mundial do Consumidor",
+      "Dia de São Longuinho",
+      "Dia Mundial do Sono",
+      "Dia Internacional de Combate à Islamofobia"
+    ]
+  },
+  "16/03/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Nacional de Conscientização sobre as Mudanças Climáticas",
+      "Dia Nacional do Ouvidor",
+      "Dia do Agente Penitenciário Federal",
+      "Dia do Agente Federal de Execução Penal",
+      "Dia do Médico Clínico"
+    ]
+  },
+  "17/03/2024": {
+    "weekday": "DOM",
+    "holidays": ["Dia do Agente Funerário", "Dia de São Patrício", "Aniversário de Aracaju"]
+  },
+  "18/03/2024": {
+    "weekday": "SEG",
+    "holidays": ["Dia do DeMolay", "Dia Nacional da Imigração Judaica"]
+  },
+  "19/03/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia de São José",
+      "Dia do Carpinteiro e do Marceneiro",
+      "Dia Nacional do Artesão",
+      "Dia do Consertador"
+    ]
+  },
+  "20/03/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Início do Outono",
+      "Dia Internacional da Felicidade",
+      "Equinócio de Outono",
+      "Dia Mundial da Saúde Bucal",
+      "Dia Nacional do Teatro para a Infância e Juventude",
+      "Dia Nacional da Aquicultura",
+      "Dia Mundial sem Carne",
+      "Dia Nacional de Atenção à Disfagia",
+      "Dia da Língua Francesa",
+      "Dia do Contador de Histórias"
+    ]
+  },
+  "21/03/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Internacional Contra a Discriminação Racial",
+      "Dia Internacional da Síndrome de Down",
+      "Dia Internacional das Florestas e da Árvore",
+      "Dia Mundial da Infância",
+      "Dia Mundial da Poesia",
+      "Dia Internacional de Nowruz",
+      "Dia do Pão Francês"
+    ]
+  },
+  "22/03/2024": {
+    "weekday": "SEX",
+    "holidays": ["Dia Mundial da Água"]
+  },
+  "23/03/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Mundial da Meteorologia",
+      "Dia do Optometrista",
+      "Aniversário de Florianópolis",
+      "Hora do Planeta",
+      "Dia Nacional do Piso Salarial dos Professores",
+      "Dia Mundial do Acupunturista"
+    ]
+  },
+  "24/03/2024": {
+    "weekday": "DOM",
+    "holidays": ["Domingo de Ramos", "Dia Internacional para o Direito à Verdade para as Vítimas de Graves Violações dos Direitos Humanos", "Dia Mundial de Combate à Tuberculose"]
+  },
+  "25/03/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "1º Eclipse Lunar de 2024 - Eclipse Penumbral",
+      "Dia da Constituição",
+      "Dia de São Dimas",
+      "Dia do Especialista de Aeronáutica",
+      "Dia Internacional em Memória das Vítimas da Escravidão e do Comércio Transatlântico de Escravos",
+      "Dia Nacional da Comunidade Árabe",
+      "Dia da Anunciação do Senhor",
+      "Dia Internacional da Solidariedade da Pessoa Detenta ou Desaparecida",
+      "Dia Nacional do Oficial de Justiça",
+      "Dia Internacional de Solidariedade com Funcionários Detidos e Desaparecidos da ONU"
+    ]
+  },
+  "26/03/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Cacau",
+      "Aniversário de Porto Alegre",
+      "Dia Mundial de Conscientização da Epilepsia",
+      "Dia do Mercosul"
+    ]
+  },
+  "27/03/2024": {
+    "weekday": "QUA",
+    "holidays": ["Dia do Circo", "Dia Mundial do Teatro"]
+  },
+  "28/03/2024": {
+    "weekday": "QUI",
+    "holidays": ["Quinta-feira Santa", "Dia do Diagramador", "Dia do Revisor"]
+  },
+  "29/03/2024": {
+    "weekday": "SEX",
+    "holidays": ["Sexta-feira Santa FERIADO", "Aniversário de Salvador", "Aniversário de Curitiba"]
+  },
+  "30/03/2024": {
+    "weekday": "SÁB",
+    "holidays": ["Sábado de Aleluia", "Dia Mundial do Transtorno Bipolar", "Dia Internacional do Lixo Zero"]
+  },
+  "31/03/2024": {
+    "weekday": "DOM",
+    "holidays": ["Páscoa", "Dia da Saúde e Nutrição", "Dia da Integração Nacional", "Dia Mundial do Backup", "Dia Internacional da Visibilidade Transgênero"]
+  },
+  "01/04/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia da Mentira - 1º de Abril",
+      "Dia da Abolição da Escravidão dos Índios"
+    ]
+  },
+  "02/04/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Mundial da Conscientização do Autismo",
+      "Dia Internacional do Livro Infantil"
+    ]
+  },
+  "03/04/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Atuário",
+      "Dia do Desporto Comunitário"
+    ]
+  },
+  "04/04/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional do Parkinsoniano",
+      "Dia Internacional de Alerta às Minas Terrestres e Assistência à Desminagem",
+      "Dia Mundial dos Animais de Rua"
+    ]
+  },
+  "05/04/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Propagandista Farmacêutico",
+      "Dia do Filho",
+      "Dia das Telecomunicações",
+      "Dia Internacional da Consciência"
+    ]
+  },
+  "06/04/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Internacional do Esporte para o Desenvolvimento e pela Paz",
+      "Dia Nacional de Mobilização pela Promoção da Saúde e Qualidade de Vida"
+    ]
+  },
+  "07/04/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Corretor",
+      "Dia do Jornalista",
+      "Dia Mundial da Saúde",
+      "Dia do Médico Legista",
+      "Dia Internacional para Reflexão do Genocídio de 1994 contra os Tutsi em Ruanda",
+      "Dia Nacional de Combate ao Bullying e à Violência na Escola"
+    ]
+  },
+  "08/04/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia da Natação",
+      "Dia Mundial do Combate ao Câncer",
+      "Dia Mundial da Astronomia",
+      "Dia Nacional do Sistema Braille",
+      "Aniversário de Cuiabá"
+    ]
+  },
+  "09/04/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Nacional do Aço",
+      "Dia Nacional da Biblioteca"
+    ]
+  },
+  "10/04/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia da Engenharia",
+      "Dia do Engenheiro Militar",
+      "Dia Mundial da Homeopatia",
+      "Dia do Engenheiro Metalurgista"
+    ]
+  },
+  "11/04/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Infectologista",
+      "Dia da Escola de Samba",
+      "Dia Mundial de Conscientização da Doença de Parkinson"
+    ]
+  },
+  "12/04/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Obstetra",
+      "Dia Internacional do Voo Espacial Tripulado",
+      "Dia Nacional do Humorista"
+    ]
+  },
+  "13/04/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Aniversário de Fortaleza",
+      "Dia do Office-Boy",
+      "Dia do Beijo",
+      "Dia do Hino Nacional Brasileiro",
+      "Dia do Jovem"
+    ]
+  },
+  "14/04/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial do Café",
+      "Dia Pan-Americano",
+      "Dia do Técnico em Serviço de Saúde",
+      "Dia Nacional do Neurocirurgião"
+    ]
+  },
+  "15/04/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Mundial do Desenhista",
+      "Dia Nacional da Conservação do Solo",
+      "Dia do Desarmamento Infantil",
+      "Dia Mundial da Arte"
+    ]
+  },
+  "16/04/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Mundial da Voz",
+      "Dia do Sacerdócio"
+    ]
+  },
+  "17/04/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Mundial do Hemofílico",
+      "Dia Mundial da Hemofilia",
+      "Dia Nacional de Luta pela Reforma Agrária",
+      "Dia Nacional da Botânica"
+    ]
+  },
+  "18/04/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia de Monteiro Lobato",
+      "Dia do Amigo",
+      "Dia Nacional do Livro Infantil",
+      "Dia Internacional dos Monumentos e Sítios",
+      "Dia Mundial do Radioamador"
+    ]
+  },
+  "19/04/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia dos Povos Indígenas (Dia do Índio)",
+      "Dia do Exército Brasileiro",
+      "Dia de Santo Expedito"
+    ]
+  },
+  "20/04/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Diplomata",
+      "Dia do Disco",
+      "Dia da Língua Chinesa"
+    ]
+  },
+  "21/04/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Tiradentes FERIADO",
+      "Dia do Metalúrgico",
+      "Dia da Latinidade",
+      "Dia da Polícia Civil",
+      "Dia do Têxtil",
+      "Aniversário de Brasília",
+      "Dia Mundial da Criatividade e Inovação",
+      "Dia do Funcionário Policial Civil"
+    ]
+  },
+  "22/04/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Descobrimento do Brasil",
+      "Dia da Terra",
+      "Dia do Agente de Viagem",
+      "Dia da Comunidade Luso-Brasileira",
+      "Dia da Aviação de Caça",
+      "Data Festiva da Força Aérea Brasileira",
+      "Dia Nacional da Tontura"
+    ]
+  },
+  "23/04/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia de São Jorge",
+      "Dia Mundial do Escoteiro",
+      "Dia do Serralheiro",
+      "Dia Mundial do Livro e dos Direitos de Autor",
+      "Dia do Torcedor Corinthiano",
+      "Dia Nacional da Educação de Surdos",
+      "Dia Nacional do Choro",
+      "Dia da Língua Inglesa",
+      "Dia da Língua Espanhola"
+    ]
+  },
+  "24/04/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Penitenciário",
+      "Dia do Boi",
+      "Dia do Chimarrão",
+      "Dia Internacional do Jovem Trabalhador",
+      "Dia Internacional do Milho",
+      "Dia Mundial do Multilateralismo e da Diplomacia para a Paz",
+      "Dia do Samurai",
+      "Dia Mundial de Combate à Meningite",
+      "Dia Nacional da Família na Escola",
+      "Dia Nacional da Língua Brasileira de Sinais"
+    ]
+  },
+  "25/04/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Contabilidade",
+      "Dia Mundial da Luta contra a Malária",
+      "Dia do Despachante Aduaneiro",
+      "Dia do DNA",
+      "Dia das Meninas nas Tecnologias de Informação e Comunicação",
+      "Dia Internacional de Consciencialização para a Alienação Parental",
+      "Dia Mundial do Pinguim"
+    ]
+  },
+  "26/04/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Goleiro",
+      "Dia de Prevenção e Combate à Hipertensão",
+      "Dia Internacional de Lembrança do Desastre de Chernobyl",
+      "Dia do Juiz Trabalhista",
+      "Dia Mundial da Propriedade Intelectual"
+    ]
+  },
+  "27/04/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia da Empregada Doméstica",
+      "Dia Mundial do Design Gráfico",
+      "Dia do Engraxate",
+      "Dia Mundial da Medicina Veterinária"
+    ]
+  },
+  "28/04/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia da Educação",
+      "Dia da Sogra",
+      "Dia Nacional da Caatinga",
+      "Dia Nacional em Memória das Vítimas de Acidentes e Doenças do Trabalho",
+      "Dia Mundial da Segurança e da Saúde no Trabalho"
+    ]
+  },
+  "29/04/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Internacional da Dança",
+      "Dia de Santa Catarina de Sena"
+    ]
+  },
+  "30/04/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Nacional da Mulher",
+      "Dia do Ferroviário",
+      "Dia Internacional do Jazz"
+    ]
+  },
+  "01/05/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Trabalho",
+      "Dia da Literatura Brasileira"
+    ]
+  },
+  "02/05/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional da Ética",
+      "Dia Mundial do Atum",
+      "Dia Mundial da Senha"
+    ]
+  },
+  "03/05/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Internacional da Liberdade de Imprensa",
+      "Dia do Parlamento",
+      "Dia Nacional do Taquígrafo",
+      "Dia do Sertanejo",
+      "Dia do Pau-Brasil"
+    ]
+  },
+  "04/05/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia de Star Wars",
+      "Dia Internacional do Bombeiro"
+    ]
+  },
+  "05/05/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia da Língua Portuguesa e da Cultura Lusófona",
+      "Dia Nacional do Líder Comunitário",
+      "Dia Nacional das Comunicações",
+      "Dia Nacional do Expedicionário",
+      "Dia do Marechal Rondon",
+      "Dia Nacional sobre o Uso Racional de Medicamentos",
+      "Dia Mundial de Higienização das Mãos",
+      "Dia Nacional do ex-Combatente",
+      "Dia Internacional da Parteira",
+      "Dia Mundial do Riso",
+      "Dia Mundial do Trânsito e da Cortesia ao Volante"
+    ]
+  },
+  "06/05/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia da Matemática",
+      "Dia do Cartógrafo",
+      "Dia da Coragem",
+      "Dia do Psicanalista",
+      "Dia do Engenheiro Cartógrafo",
+      "Dia Internacional sem Dieta"
+    ]
+  },
+  "07/05/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Oftalmologista",
+      "Dia do Silêncio",
+      "Dia Mundial de Combate à Asma",
+      "Dia Nacional de Prevenção da Alergia",
+      "Dia Mundial da Espondilite Anquilosante",
+      "Dia Internacional da Luta contra a Endometriose"
+    ]
+  },
+  "08/05/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Nacional do Turismo",
+      "Dia do Profissional de Marketing",
+      "Dia do Artista Plástico",
+      "Dia Internacional da Cruz Vermelha",
+      "Dia da Vitória",
+      "Dia da Talassemia",
+      "Dia Nacional das Hemoglobinopatias",
+      "Dia Mundial do Câncer de Ovário",
+      "Tempo de Recordação e Reconciliação pelos que perderam a vida durante a Segunda Guerra Mundial"
+    ]
+  },
+  "09/05/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Europa",
+      "Aniversário da Fundação de Mato Grosso"
+    ]
+  },
+  "10/05/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Guia de Turismo",
+      "Dia da Cozinheira",
+      "Dia da Cavalaria",
+      "Dia do Campo",
+      "Dia Internacional de Atenção à Pessoa com Lúpus"
+    ]
+  },
+  "11/05/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Nacional do Reggae",
+      "Dia Mundial das Aves Migratórias",
+      "Dia da Integração do Telégrafo no Brasil"
+    ]
+  },
+  "12/05/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia das Mães",
+      "Dia Internacional da Enfermagem e do Enfermeiro",
+      "Dia do Aniversário do Buda Shakyamuni",
+      "Dia Nacional de Conscientização e Enfrentamento da Fibromialgia",
+      "Dia Internacional da Sanidade Vegetal"
+    ]
+  },
+  "13/05/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Automóvel",
+      "Abolição da Escravatura",
+      "Dia do Zootecnista",
+      "Dia da Fraternidade",
+      "Dia Nacional do Chefe de Cozinha",
+      "Dia de Nossa Senhora de Fátima",
+      "Dia Mundial do Coquetel"
+    ]
+  },
+  "14/05/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Continental do Seguro",
+      "Dia de São Matias"
+    ]
+  },
+  "15/05/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Gerente Bancário",
+      "Dia do Assistente Social",
+      "Dia Internacional da Família",
+      "Dia Nacional do Controle das Infecções Hospitalares",
+      "Dia Internacional do Serviço de Informação Aeronáutica",
+      "Dia Nacional de Conscientização da Mucopolissacaridose"
+    ]
+  },
+  "16/05/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Gari",
+      "Dia Internacional da Luz",
+      "Dia Internacional da Convivência em Paz",
+      "Dia do Médico Geriatra",
+      "Dia Mundial de Conscientização sobre a Doença Celíaca"
+    ]
+  },
+  "17/05/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de Vesak",
+      "Dia Mundial das Telecomunicações e da Sociedade da Informação",
+      "Dia Internacional Contra a Homofobia",
+      "Dia Mundial da Hipertensão",
+      "Dia Mundial da Reciclagem"
+    ]
+  },
+  "18/05/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia dos Vidraceiros",
+      "Dia Internacional dos Museus",
+      "Dia Nacional do Cocktail",
+      "Dia Nacional de Combate ao Abuso e à Exploração Sexual Infantil",
+      "Dia Nacional da Luta Antimanicomial",
+      "Dia de Conscientização sobre a Necessidade de Vacina Contra HIV/Aids"
+    ]
+  },
+  "19/05/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Nacional de Combate à Cefaleia",
+      "Dia de Pentecostes",
+      "Dia do Físico",
+      "Dia dos Acadêmicos de Direito",
+      "Dia do Estudante de Direito",
+      "Dia do Defensor Público",
+      "Dia de São Crispim de Viterbo",
+      "Dia Nacional de Doação de Leite Humano",
+      "Dia Mundial da Doença Inflamatória Intestinal",
+      "Dia Mundial do Médico de Família"
+    ]
+  },
+  "20/05/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Pedagogo",
+      "Dia Nacional do Técnico e Auxiliar de Enfermagem",
+      "Dia Mundial das Abelhas",
+      "Dia Nacional do Medicamento Genérico",
+      "Aniversário de Palmas",
+      "Dia do Comissário de Menores",
+      "Dia Mundial da Metrologia"
+    ]
+  },
+  "21/05/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia da Língua Nacional",
+      "Dia do Afilhado",
+      "Dia Mundial da Diversidade Cultural para o Diálogo e o Desenvolvimento",
+      "Dia Internacional do Chá"
+    ]
+  },
+  "22/05/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Apicultor",
+      "Dia Internacional da Biodiversidade Biológica",
+      "Dia do Abraço",
+      "Dia de Santa Rita",
+      "Dia Mundial do Gótico"
+    ]
+  },
+  "23/05/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Tartaruga",
+      "Dia Internacional para Acabar com a Fístula Obstétrica",
+      "Dia da Juventude Constitucionalista"
+    ]
+  },
+  "24/05/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia da Infantaria",
+      "Dia do Datilógrafo",
+      "Dia do Telegrafista",
+      "Dia do Vestibulando",
+      "Dia do Detento",
+      "Dia Nacional do Café",
+      "Dia Nacional do Calcário Agrícola",
+      "Dia Nacional do Cigano",
+      "Dia Nacional do Milho"
+    ]
+  },
+  "25/05/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia da Indústria",
+      "Dia do Massagista",
+      "Dia da Toalha",
+      "Dia Nacional da Adoção",
+      "Dia do Trabalhador Rural",
+      "Dia Internacional do Sapateado",
+      "Dia Internacional das Crianças Desaparecidas",
+      "Dia do Orgulho Geek",
+      "Dia da Costureira",
+      "Dia Nacional do Respeito ao Contribuinte",
+      "Dia Internacional da Tireoide",
+      "Dia da África"
+    ]
+  },
+  "26/05/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Nacional de Combate ao Glaucoma",
+      "Dia do Revendedor Lotérico"
+    ]
+  },
+  "27/05/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Nacional da Mata Atlântica",
+      "Dia do Profissional Liberal",
+      "Dia do Serviço de Saúde",
+      "Dia do Serviço de Saúde do Exército",
+      "Dia do Engenheiro de Custos"
+    ]
+  },
+  "28/05/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Ceramista",
+      "Dia Nacional de Luta pela Redução da Mortalidade Materna",
+      "Dia de São Germano de Paris",
+      "Dia do Hambúrguer",
+      "Dia Internacional de Luta pela Saúde da Mulher",
+      "Dia Mundial do Brincar"
+    ]
+  },
+  "29/05/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Estatístico",
+      "Dia do Desafio",
+      "Dia do Geógrafo",
+      "Dia Mundial da Energia",
+      "Dia Internacional dos Soldados da Paz das Nações Unidas",
+      "Dia de São Maximino",
+      "Dia Mundial da Saúde Digestiva",
+      "Dia do Ibgeano"
+    ]
+  },
+  "30/05/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Corpus Christi (Ponto Facultativo)",
+      "Dia do Geólogo",
+      "Dia do Decorador",
+      "Dia da Santa Joana d'Arc",
+      "São Fernando",
+      "Dia Mundial da Esclerose Múltipla",
+      "Dia Mundial da Batata Frita"
+    ]
+  },
+  "31/05/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Ponto Facultativo (dia seguinte ao Corpus Christi)",
+      "Dia do Comissário de Bordo",
+      "Dia do Espírito Santo",
+      "Dia Mundial sem Tabaco",
+      "Dia da Aeromoça",
+      "Dia Mundial de Combate ao Fumo"
+    ]
+  },
+  "01/06/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Mundial dos Pais",
+      "Semana do Meio Ambiente",
+      "Dia da Imprensa",
+      "Dia de São Justino",
+      "Dia Mundial do Leite"
+    ]
+  },
+  "02/06/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Internacional da Prostituta"
+    ]
+  },
+  "03/06/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Internacional do Administrador de Pessoal e da Comunidade Social",
+      "Dia da Conscientização Contra a Obesidade Mórbida Infantil",
+      "Dia Mundial da Bicicleta",
+      "Dia Nacional da Educação Ambiental",
+      "Dia do Profissional de RH"
+    ]
+  },
+  "04/06/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia de Santa Clotilde",
+      "Dia Internacional das Crianças Inocentes Vítimas de Agressão",
+      "Dia do Engenheiro Agrimensor",
+      "Dia do Gestor Comercial"
+    ]
+  },
+  "05/06/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia da Ecologia",
+      "Dia Mundial do Meio Ambiente",
+      "Dia Nacional da Reciclagem",
+      "Dia de São Bonifácio",
+      "Dia Internacional de Luta contra a Pesca Ilegal, Não Declarada e Não Regulamentada",
+      "Dia do Engenheiro Mecânico",
+      "Dia Mundial da Corrida"
+    ]
+  },
+  "06/06/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Língua Russa",
+      "Dia de São Norberto",
+      "Dia Nacional de Luta contra Queimaduras",
+      "Dia Nacional do Teste do Pezinho"
+    ]
+  },
+  "07/06/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Mundial da Segurança dos Alimentos",
+      "Dia da Liberdade de Imprensa"
+    ]
+  },
+  "08/06/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Oceanógrafo",
+      "Dia do Citricultor",
+      "Dia Mundial dos Oceanos",
+      "Dia de São Medardo"
+    ]
+  },
+  "09/06/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia da Imunização",
+      "Dia do Porteiro",
+      "Dia do Tenista",
+      "Dia Nacional de Anchieta",
+      "Dia Internacional dos Arquivos",
+      "Dia do Pastor Evangélico"
+    ]
+  },
+  "10/06/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia da Artilharia",
+      "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    ]
+  },
+  "11/06/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia da Marinha Brasileira",
+      "Dia do Educador Sanitário",
+      "Dia de São Barnabé"
+    ]
+  },
+  "12/06/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia dos Namorados",
+      "Dia do Correio Aéreo Nacional",
+      "Dia Mundial de Combate ao Trabalho Infantil",
+      "Dia de São Gaspar de Búfalo",
+      "Dia do Enxadrista"
+    ]
+  },
+  "13/06/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia de Santo Antônio",
+      "Dia do Turista",
+      "Dia Internacional de Conscientização sobre o Albinismo"
+    ]
+  },
+  "14/06/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Solista",
+      "Dia Mundial do Doador de Sangue",
+      "Dia Universal de Deus"
+    ]
+  },
+  "15/06/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Mundial da Consciencialização da Violência contra a Pessoa Idosa",
+      "Aniversário da Emancipação do Acre",
+      "Dia Mundial do Vento"
+    ]
+  },
+  "16/06/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Internacional das Remessas Familiares",
+      "Dia de São Francisco Régis",
+      "Dia Internacional da Tartaruga Marinha",
+      "Dia Internacional da Criança Africana"
+    ]
+  },
+  "17/06/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Funcionário Público Aposentado",
+      "Dia Mundial de Combate à Desertificação e à Seca",
+      "Dia da Medicina Veterinária Militar",
+      "Dia Mundial do Karatê",
+      "Dia do Gestor Ambiental"
+    ]
+  },
+  "18/06/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Químico",
+      "Dia da Imigração Japonesa",
+      "Dia da Gastronomia Sustentável",
+      "Dia do Orgulho Autista"
+    ]
+  },
+  "19/06/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Cinema Brasileiro",
+      "Dia do Migrante",
+      "Dia de São Romualdo",
+      "Dia Internacional para Eliminação da Violência Sexual em Conflito",
+      "Dia Mundial de Conscientização sobre a Doença Falciforme",
+      "Dia Nacional do Luto"
+    ]
+  },
+  "20/06/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Início do Inverno (Solstício de Inverno)",
+      "Dia do Revendedor",
+      "Dia do Vigilante",
+      "Dia do Refugiado",
+      "Dia do Advogado Trabalhista"
+    ]
+  },
+  "21/06/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de São Luís Gonzaga",
+      "Dia do Mídia",
+      "Dia do Profissional de Mídia",
+      "Dia do Aperto de Mão",
+      "Dia Mundial do Skate",
+      "Dia do Intelectual",
+      "Dia Internacional do Yoga",
+      "Dia Nacional de Controle da Asma",
+      "Dia Nacional de Luta Contra a Esclerose Lateral Amiotrófica (ELA)",
+      "Dia Mundial da Girafa"
+    ]
+  },
+  "22/06/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Orquidófilo",
+      "Dia do Aeroviário",
+      "Dia do Economiário"
+    ]
+  },
+  "23/06/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial do Desporto Olímpico",
+      "Dia do Atleta Olímpico",
+      "Dia do Lavrador",
+      "Dia de São José Cafasso",
+      "Dia das Nações Unidas para o Serviço Público",
+      "Dia Internacional das Viúvas",
+      "Dia Nacional do Agente Marítimo",
+      "Dia Internacional das Mulheres na Engenharia"
+    ]
+  },
+  "24/06/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia de São João",
+      "Dia da Polícia Militar",
+      "Dia do Disco Voador",
+      "Dia do Observador Aéreo",
+      "Dia do Caboclo",
+      "Dia Nacional da Araucária",
+      "Dia da Indústria Gráfica",
+      "Dia Internacional do Leite",
+      "Dia da Comunidade Britânica",
+      "Dia Mundial da Ufologia"
+    ]
+  },
+  "25/06/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Mundial do Marinheiro",
+      "Dia do Cotonete",
+      "Dia do Imigrante",
+      "Dia Mundial do Vitiligo"
+    ]
+  },
+  "26/06/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Internacional contra o Abuso e Tráfico Ilícito de Drogas",
+      "Dia Internacional de Apoio às Vítimas de Tortura",
+      "Dia Nacional do Diabetes",
+      "Dia do Metrologista"
+    ]
+  },
+  "27/06/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Internacional das Micro, Pequenas e Médias Empresas",
+      "Dia Nacional do Vôlei",
+      "Dia Nacional do Progresso",
+      "Dia de Nossa Senhora do Perpétuo Socorro",
+      "Dia Nacional do Técnico em Nutrição e Dietética",
+      "Dia Nacional do Quadrilheiro Junino"
+    ]
+  },
+  "28/06/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Internacional do Orgulho LGBT",
+      "Dia de Santo Irineu",
+      "Dia da Renovação Espiritual"
+    ]
+  },
+  "29/06/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Internacional dos Trópicos",
+      "Dia de São Pedro e São Paulo",
+      "Dia do Papa",
+      "Dia do Pescador",
+      "Dia do Dublador",
+      "Dia do Telefonista",
+      "Dia do Pescador Amador",
+      "Dia Nacional da Aviação de Segurança Pública do Brasil",
+      "Dia do Engenheiro de Petróleo"
+    ]
+  },
+  "30/06/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Internacional do Asteroide",
+      "Dia Internacional do Parlamentarismo",
+      "Dia da Mídia Social",
+      "Dia Nacional do Bumba Meu Boi",
+      "Dia Nacional do Fiscal Federal Agropecuário"
+    ]
+  },
+  "01/07/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia de Santo Aarão",
+      "Dia Mundial da Arquitetura",
+      "Dia da Vacina BCG"
+    ]
+  },
+  "02/07/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Hospital",
+      "Dia do Bombeiro Brasileiro",
+      "Independência da Bahia"
+    ]
+  },
+  "03/07/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Nacional de Combate à Discriminação Racial",
+      "Dia de São Tomé"
+    ]
+  },
+  "04/07/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Operador de Telemarketing",
+      "Dia de Santa Isabel",
+      "Dia da Independência dos Estados Unidos"
+    ]
+  },
+  "05/07/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Mundial do Biquíni"
+    ]
+  },
+  "06/07/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia da criação do IBGE",
+      "Dia Internacional do Cooperativismo",
+      "Dia de Santa Maria Goretti",
+      "Dia Mundial das Zoonoses"
+    ]
+  },
+  "07/07/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial do Chocolate"
+    ]
+  },
+  "08/07/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Panificador",
+      "Dia Nacional da Ciência e do Pesquisador",
+      "Aniversário de Ouro Preto",
+      "Dia Mundial da Alergia"
+    ]
+  },
+  "09/07/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia da Revolução Constitucionalista",
+      "Aniversário de Boa Vista",
+      "Dia do Médico Oncologista"
+    ]
+  },
+  "10/07/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia da Pizza",
+      "Dia do Engenheiro de Minas",
+      "Dia Mundial da Lei",
+      "Dia da Saúde Ocular"
+    ]
+  },
+  "11/07/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Mundial da População",
+      "Dia Nacional do Socorrista"
+    ]
+  },
+  "12/07/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Engenheiro Florestal"
+    ]
+  },
+  "13/07/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Cantor",
+      "Dia Mundial do Rock",
+      "Dia do Engenheiro de Saneamento",
+      "Dia dos Compositores e Cantores Sertanejos"
+    ]
+  },
+  "14/07/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Propagandista de Laboratório",
+      "Dia da Liberdade de Pensamento",
+      "Dia de São Camilo",
+      "Dia do Engenheiro de Aquicultura",
+      "Dia do Administrador Hospitalar"
+    ]
+  },
+  "15/07/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Homem",
+      "Dia Nacional dos Clubes",
+      "Dia Nacional do Pecuarista",
+      "Dia Mundial das Habilidades dos Jovens"
+    ]
+  },
+  "16/07/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Comerciante",
+      "Dia de Nossa Senhora do Carmo",
+      "Dia Mundial da Cobra"
+    ]
+  },
+  "17/07/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia de Proteção às Florestas",
+      "Dia Mundial do Emoji",
+      "Dia do Curupira"
+    ]
+  },
+  "18/07/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Internacional de Nelson Mandela",
+      "Dia de São Francisco Solano",
+      "Dia do Trovador"
+    ]
+  },
+  "19/07/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia da Caridade",
+      "Dia Nacional do Futebol",
+      "Dia de São Símaco"
+    ]
+  },
+  "20/07/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Amigo e Internacional da Amizade",
+      "Chegada do Homem à Lua",
+      "Dia Nacional do Biscoito",
+      "Dia Pan-americano do Engenheiro"
+    ]
+  },
+  "21/07/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Nacional do Garimpeiro"
+    ]
+  },
+  "22/07/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia de Santa Maria Madalena",
+      "Dia Mundial do Cérebro",
+      "Dia do Cantor Lírico"
+    ]
+  },
+  "23/07/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Guarda Rodoviário",
+      "Dia de Santa Brígida"
+    ]
+  },
+  "24/07/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Internacional do Autocuidado",
+      "Dia de São Charbel Makhlouf",
+      "Dia Nacional do Suinocultor"
+    ]
+  },
+  "25/07/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Imigração Alemã no Brasil",
+      "Dia de São Cristóvão",
+      "Dia do Escritor",
+      "Dia do Colono",
+      "Dia do Motorista",
+      "Dia de São Tiago Maior",
+      "Dia da Mulher Negra Latina e Caribenha",
+      "Dia Mundial de Prevenção do Afogamento"
+    ]
+  },
+  "26/07/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia da Vovó",
+      "Dia dos Avós",
+      "Dia Nacional do Arqueólogo",
+      "Dia do Recepcionista",
+      "Dia Mundial de Proteção aos Manguezais",
+      "Abertura das Olimpíadas de Paris 2024"
+    ]
+  },
+  "27/07/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Motociclista",
+      "Dia Mundial de Conscientização e Combate ao Câncer de Cabeça e Pescoço",
+      "Dia de São Pantaleão de Nicomédia",
+      "Dia do Pediatra",
+      "Dia Nacional da Prevenção de Acidentes do Trabalho"
+    ]
+  },
+  "28/07/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Agricultor",
+      "Dia Mundial de Luta Contra as Hepatites Virais"
+    ]
+  },
+  "29/07/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia de Santa Marta",
+      "Dia Internacional do Tigre"
+    ]
+  },
+  "30/07/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Internacional da Amizade",
+      "São Pedro Crisólogo",
+      "Dia Mundial contra o Tráfico de Pessoas",
+      "Dia do Cirurgião Geral"
+    ]
+  },
+  "31/07/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Orgasmo",
+      "Dia de Santo Inácio de Loyola",
+      "Dia Mundial do Guarda-Florestal"
+    ]
+  },
+  "01/08/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional do Selo",
+      "Dia Nacional dos Portadores de Vitiligo",
+      "Dia do Cerealista",
+      "Dia Mundial da Amamentação",
+      "Dia Mundial do Câncer de Pulmão"
+    ]
+  },
+  "02/08/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Internacional da Cerveja",
+      "Dia de Santo Eusébio de Vercelli"
+    ]
+  },
+  "03/08/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Capoeirista",
+      "Dia do Tintureiro",
+      "Dia de Santa Lídia",
+      "Dia do Fim da Censura no Brasil"
+    ]
+  },
+  "04/08/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Padre",
+      "Dia do Sacerdote",
+      "Dia de São João Maria Vianney"
+    ]
+  },
+  "05/08/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Nacional da Saúde",
+      "Dia de Nossa Senhora das Neves",
+      "Dia de Santo Osvaldo de Nortúmbria",
+      "Aniversário de João Pessoa",
+      "Aniversário da Fundação da Paraíba",
+      "Dia Nacional da Farmácia",
+      "Dia do Médico Patologista"
+    ]
+  },
+  "06/08/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia de São Salvador do Mundo",
+      "Dia Nacional dos Profissionais da Educação",
+      "Dia Interamericano do Escotista"
+    ]
+  },
+  "07/08/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia de São Caetano",
+      "Dia Nacional do Documentário Brasileiro",
+      "Aniversário do Rio Grande do Norte"
+    ]
+  },
+  "08/08/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia de São Domingos de Gusmão",
+      "Dia Nacional de Combate ao Colesterol"
+    ]
+  },
+  "09/08/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Internacional dos Povos Indígenas",
+      "Dia Nacional da Equoterapia",
+      "Dia Interamericano da Qualidade do Ar"
+    ]
+  },
+  "10/08/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia de São Lourenço",
+      "Dia Internacional do Biodiesel",
+      "Dia da Solidariedade Cristã"
+    ]
+  },
+  "11/08/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia dos Pais",
+      "Dia da Televisão",
+      "Dia do Advogado",
+      "Dia Internacional da Logosofia",
+      "Dia do Estudante",
+      "Dia do Garçom",
+      "Dia de Santa Clara de Assis",
+      "Dia do Magistrado",
+      "Dia do Médico Acupunturista",
+      "Encerramento das Olimpíadas de Paris 2024"
+    ]
+  },
+  "12/08/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Internacional da Juventude",
+      "Dia Nacional das Artes",
+      "Dia Mundial do Elefante",
+      "Dia Nacional dos Direitos Humanos"
+    ]
+  },
+  "13/08/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Economista",
+      "Dia do Canhoto",
+      "Dia de São Ponciano e Santo Hipólito",
+      "Dia do Médico Psiquiatra"
+    ]
+  },
+  "14/08/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Cardiologista",
+      "Dia de São Maximiliano",
+      "Dia da Unidade Humana",
+      "Dia do Controle da Poluição Industrial"
+    ]
+  },
+  "15/08/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Imigração Chinesa no Brasil",
+      "Dia da Informática",
+      "Dia dos Solteiros",
+      "Dia da Assunção de Nossa Senhora",
+      "Dia de São Tarcísio",
+      "Dia Nacional das Santas Casas de Misericórdia",
+      "Dia do Médico Angiologista e Cirurgião Vascular"
+    ]
+  },
+  "16/08/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Filósofo",
+      "Dia de São Roque",
+      "Aniversário de Teresina",
+      "Dia do Auxiliar de Almoxarifado"
+    ]
+  },
+  "17/08/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia de São Jacinto",
+      "Dia do Patrimônio Histórico",
+      "Dia Nacional da Construção Social"
+    ]
+  },
+  "18/08/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia de Santa Helena",
+      "Dia Nacional do Campo Limpo",
+      "Dia do Estagiário",
+      "Dia Mundial da Libertação Humana"
+    ]
+  },
+  "19/08/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Historiador",
+      "Dia Mundial da Fotografia",
+      "Dia do Artista de Teatro",
+      "Dia de São João Eudes",
+      "Dia Mundial Humanitário",
+      "Dia da Integração Jurídica Latino-Americana",
+      "Dia Nacional da Aviação Agrícola",
+      "Dia Nacional do Ciclista"
+    ]
+  },
+  "20/08/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Maçom",
+      "Dia de São Bernardo",
+      "Dia Mundial Contra os Mosquitos"
+    ]
+  },
+  "21/08/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia de São Pio X",
+      "Dia Internacional de Recordação e Homenagem às Vítimas do Terrorismo",
+      "Início da Semana Nacional da Pessoa com Deficiência Intelectual e Múltipla",
+      "Dia Nacional da Habitação"
+    ]
+  },
+  "22/08/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Folclore",
+      "Dia de Nossa Senhora Rainha",
+      "Dia do Supervisor Escolar",
+      "Dia do Coordenador Pedagógico"
+    ]
+  },
+  "23/08/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de Santa Rosa de Lima",
+      "Dia Internacional para Relembrar o Tráfico de Escravos e sua Abolição",
+      "Dia do Aviador Naval",
+      "Dia da Intendência"
+    ]
+  },
+  "24/08/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia de São Bartolomeu",
+      "Dia Nacional da Comunidade Ucraniana",
+      "Dia da Infância",
+      "Dia do Artista"
+    ]
+  },
+  "25/08/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Soldado",
+      "Dia do Feirante",
+      "Dia Nacional da Educação Infantil",
+      "Dia da Legalidade"
+    ]
+  },
+  "26/08/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia de São Zeferino",
+      "Aniversário de Campo Grande",
+      "Dia Internacional da Igualdade Feminina",
+      "Dia do Catequista"
+    ]
+  },
+  "27/08/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Psicólogo",
+      "Dia do Corretor de Imóveis",
+      "Dia de São Celestino I",
+      "Dia de Santa Mônica"
+    ]
+  },
+  "28/08/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia dos Bancários",
+      "Dia da Avicultura",
+      "Dia de Santo Agostinho de Hipona",
+      "Dia Nacional de Combate e Prevenção ao Escalpelamento",
+      "Dia Nacional do Voluntariado"
+    ]
+  },
+  "29/08/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional da Visibilidade Lésbica",
+      "Dia Nacional de Combate ao Fumo",
+      "Dia de Santa Joana Maria da Cruz",
+      "Dia Internacional contra Testes Nucleares",
+      "Dia Internacional do Gamer"
+    ]
+  },
+  "30/08/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de São Cesário de Arles",
+      "Dia Nacional de Conscientização sobre a Esclerose Múltipla",
+      "Dia Internacional das Vítimas de Desaparecimentos Forçados"
+    ]
+  },
+  "31/08/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Nutricionista",
+      "Dia de São Raimundo Nonato",
+      "Dia Internacional do Blog"
+    ]
+  },
+  "01/09/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Profissional de Educação Física",
+      "Dia do Corinthians",
+      "Dia da Bailarina",
+      "Dia de Santa Beatriz da Silva",
+      "Dia Mundial de Oração pelo Cuidado da Criação",
+      "Dia do Médico Endocrinologista"
+    ]
+  },
+  "02/09/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia de Santa Dorotéia",
+      "Dia do Florista",
+      "Dia do Repórter Fotográfico"
+    ]
+  },
+  "03/09/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Biólogo",
+      "Dia de São Gregório Magno",
+      "Dia do Guarda Civil",
+      "Dia das Organizações Populares"
+    ]
+  },
+  "04/09/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia de Santa Rosália",
+      "Dia Mundial do Taekwondo",
+      "Dia Mundial da Saúde Sexual"
+    ]
+  },
+  "05/09/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Amazônia",
+      "Dia do Irmão",
+      "Dia Nacional de Conscientização e Divulgação da Fibrose Cística",
+      "Dia do Oficial de Farmácia do Brasil",
+      "Aniversário da Emancipação do Amazonas",
+      "Dia Internacional da Caridade",
+      "Dia da Raça"
+    ]
+  },
+  "06/09/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Alfaiate",
+      "Dia do Sexo"
+    ]
+  },
+  "07/09/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia da Independência do Brasil - 7 de Setembro FERIADO",
+      "Dia de Santa Regina",
+      "Dia de São Clodoaldo",
+      "Dia Internacional do Ar Limpo para um Céu Azul",
+      "Dia Mundial da Barba"
+    ]
+  },
+  "08/09/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial da Alfabetização",
+      "Dia de Santo Adriano",
+      "Dia de Nossa Senhora da Natividade",
+      "Aniversário de Vitória",
+      "Dia Nacional de Luta por Medicamento",
+      "Aniversário de São Luís",
+      "Dia Mundial da Fisioterapia",
+      "Dia Mundial da Fibrose Cística"
+    ]
+  },
+  "09/09/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Administrador",
+      "Dia do Médico Veterinário",
+      "Dia do Cachorro-Quente",
+      "Dia da Velocidade",
+      "Dia Internacional para Proteger a Educação de Ataques"
+    ]
+  },
+  "10/09/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Gordo",
+      "Dia Mundial de Prevenção ao Suicídio"
+    ]
+  },
+  "11/09/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Nacional do Cerrado",
+      "Dia do Árbitro Esportivo"
+    ]
+  },
+  "12/09/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional da Recreação",
+      "Dia do Operador de Rastreamento",
+      "Dia do Programador",
+      "Dia do Médico Urologista"
+    ]
+  },
+  "13/09/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Nacional da Cachaça",
+      "Dia do Agrônomo",
+      "Dia Mundial da Sepse",
+      "Dia Nacional de Luta dos Acidentados por Fontes Radioativas",
+      "Dia de São João Crisóstomo"
+    ]
+  },
+  "14/09/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia da Cruz",
+      "Dia do Frevo"
+    ]
+  },
+  "15/09/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Cliente",
+      "Dia de Nossa Senhora das Dores",
+      "Dia Mundial de Conscientização sobre Linfomas",
+      "Dia Internacional da Democracia",
+      "Dia do Musicoterapeuta"
+    ]
+  },
+  "16/09/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Caminhoneiro",
+      "Dia Internacional para a Preservação da Camada de Ozônio",
+      "Dia de São Cipriano",
+      "Dia Nacional de Combate e Prevenção à Trombose",
+      "Aniversário da Emancipação de Alagoas"
+    ]
+  },
+  "17/09/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia da Compreensão Mundial",
+      "Dia Nacional do Transportador Rodoviário de Carga",
+      "Dia Mundial da Segurança do Paciente"
+    ]
+  },
+  "18/09/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "2º Eclipse Lunar de 2024 - Eclipse Parcial",
+      "Dia dos Símbolos Nacionais",
+      "Dia Nacional de Conscientização e Incentivo ao Diagnóstico Precoce do Retinoblastoma",
+      "Dia Oficial da Televisão",
+      "Dia Internacional da Igualdade Salarial"
+    ]
+  },
+  "19/09/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional do Teatro",
+      "Dia do Ortopedista",
+      "Dia do Comprador",
+      "Dia Nacional do Educador Social",
+      "Dia de São Januário",
+      "Dia Internacional de Atenção aos Acidentes Ofídicos",
+      "Dia Mundial pela Limpeza da Água"
+    ]
+  },
+  "20/09/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Revolução Farroupilha (Dia do Gaúcho)",
+      "Dia do Engenheiro Químico",
+      "Dia do Funcionário Municipal",
+      "Dia do Baterista"
+    ]
+  },
+  "21/09/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia da Árvore",
+      "Dia Nacional de Luta da Pessoa com Deficiência",
+      "Dia do Adolescente",
+      "Dia do Fazendeiro",
+      "Dia dos Tios: Dia da Tia e Dia do Tio",
+      "Dia Mundial da Doença de Alzheimer",
+      "Dia Internacional da Paz",
+      "Dia Mundial do Doador de Medula Óssea",
+      "Dia de São Mateus",
+      "Dia Nacional de Conscientização da Doença de Alzheimer",
+      "Dia Mundial da Gratidão"
+    ]
+  },
+  "22/09/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Início da Primavera",
+      "Dia do Contador",
+      "Dia da Juventude do Brasil",
+      "Dia Mundial Sem Carro",
+      "Dia Nacional do Atleta Paralímpico",
+      "Dia da Banana",
+      "Dia Nacional de Defesa da Fauna",
+      "Dia de São Maurício",
+      "Equinócio de Primavera",
+      "Dia Nacional da Saúde de Adolescentes e Jovens",
+      "Dia Mundial da Leucemia Mieloide Crônica"
+    ]
+  },
+  "23/09/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia dos Filhos",
+      "Dia do Sorvete",
+      "Dia do Soldador",
+      "Dia Nacional dos Profissionais de Nível Técnico",
+      "Dia Internacional das Línguas de Sinais",
+      "Dia Internacional Contra a Exploração Sexual e o Tráfico de Mulheres e Crianças",
+      "Dia de Combate ao Estresse",
+      "Dia do Técnico Industrial",
+      "Dia do Técnico em Edificações"
+    ]
+  },
+  "24/09/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Mototaxista (SP)"
+    ]
+  },
+  "25/09/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Nacional do Trânsito",
+      "Dia Internacional do Farmacêutico",
+      "Dia do Rádio",
+      "Dia da Radiodifusão",
+      "Dia Mundial do Sonho",
+      "Dia Mundial do Pulmão"
+    ]
+  },
+  "26/09/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Interamericano das Relações Públicas",
+      "Dia dos Primos",
+      "Dia Nacional dos Surdos",
+      "Dia Internacional para a Eliminação Total das Armas Nucleares",
+      "Dia Marítimo Mundial",
+      "Dia Mundial da Contracepção"
+    ]
+  },
+  "27/09/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de São Cosme e Damião",
+      "Dia Nacional de Doação de Órgãos",
+      "Dia Nacional dos Vicentinos",
+      "Dia Mundial do Turismo",
+      "Dia Nacional do Turismólogo e dos Profissionais do Turismo",
+      "Dia do Encanador"
+    ]
+  },
+  "28/09/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Hidrógrafo",
+      "Dia Mundial de Luta contra a Raiva",
+      "Dia de São Venceslau",
+      "Dia Internacional do Acesso Universal à Informação",
+      "Dia Internacional do Coelho"
+    ]
+  },
+  "29/09/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial do Petróleo",
+      "Dia de São Gabriel Arcanjo",
+      "Dia de São Rafael Arcanjo",
+      "Dia de São Miguel Arcanjo",
+      "Dia do Anunciante",
+      "Dia Mundial do Coração",
+      "Dia Internacional de Conscientização sobre Perda e Desperdício de Alimentos",
+      "Dia Mundial dos Rios"
+    ]
+  },
+  "30/09/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia da Secretária",
+      "Dia da Bíblia Católica",
+      "Dia Nacional do Jornaleiro",
+      "Dia Mundial do Tradutor",
+      "Dia Internacional da Tradução",
+      "Dia Internacional do Podcast"
+    ]
+  },
+  "01/10/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Internacional da Música",
+      "Dia do Vendedor",
+      "Dia do Vereador",
+      "Dia de Santa Teresinha",
+      "Dia Internacional das Pessoas Idosas",
+      "Dia Nacional do Idoso",
+      "Dia do Representante Comercial",
+      "Dia Mundial do Vegetarianismo",
+      "Dia Mundial da Urticária",
+      "Dia Internacional do Café"
+    ]
+  },
+  "02/10/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "2º Eclipse Solar de 2024 - Eclipse Anular",
+      "Dia Internacional da Não-Violência",
+      "Dia do Anjo da Guarda",
+      "Aniversário de Porto Velho",
+      "Dia do Quadro Complementar de Oficiais"
+    ]
+  },
+  "03/10/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Mundial do Dentista",
+      "Dia das Abelhas",
+      "Dia do Profissional de Organização",
+      "Dia do Engenheiro de Energia",
+      "Dia do Petróleo Brasileiro"
+    ]
+  },
+  "04/10/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia dos Animais",
+      "Dia de São Francisco de Assis",
+      "Dia da Natureza",
+      "Dia do Cachorro",
+      "Dia Mundial do Sorriso",
+      "Dia do Agente Comunitário de Saúde",
+      "Dia do Barman",
+      "Dia do Médico do Trabalho",
+      "Semana Mundial do Espaço (dias 4 a 10)"
+    ]
+  },
+  "05/10/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia de São Benedito",
+      "Dia Nacional da Micro e Pequena Empresa",
+      "Dia Mundial dos Professores",
+      "Dia da Promulgação da Constituição de 1988",
+      "Dia da Ave"
+    ]
+  },
+  "06/10/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia de São Bruno",
+      "Dia do Tecnólogo",
+      "Dia Mundial da Paralisia Cerebral",
+      "Primeiro Turno das Eleições Municipais 2024"
+    ]
+  },
+  "07/10/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Compositor Brasileiro",
+      "Dia Mundial do Habitat",
+      "Dia do Trabalho Decente",
+      "Dia de Nossa Senhora do Rosário",
+      "Dia Mundial do Algodão"
+    ]
+  },
+  "08/10/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Nordestino",
+      "Dia Nacional de Doação de Cordão Umbilical"
+    ]
+  },
+  "09/10/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Atletismo",
+      "Dia Mundial dos Correios",
+      "Dia do Açougueiro"
+    ]
+  },
+  "10/10/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia de São Daniel Comboni",
+      "Dia Mundial da Saúde Mental",
+      "Dia dos Veteranos da Marinha",
+      "Dia Nacional de Luta Contra a Violência à Mulher",
+      "Dia Mundial da Visão",
+      "Dia Nacional de Segurança e de Saúde nas Escolas",
+      "Dia Mundial Contra a Pena de Morte"
+    ]
+  },
+  "11/10/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Nacional de Prevenção da Obesidade",
+      "Dia Internacional das Meninas",
+      "Aniversário da Criação do Mato Grosso do Sul",
+      "Dia do Deficiente Físico",
+      "Dia de Yom Kipur",
+      "Dia Mundial do Ovo"
+    ]
+  },
+  "12/10/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia das Crianças",
+      "Nossa Senhora Aparecida FERIADO",
+      "Dia do Engenheiro Agrônomo",
+      "Dia do Corretor de Seguros",
+      "Dia Nacional da Leitura",
+      "Descobrimento da América",
+      "Dia do Rio Tietê",
+      "Dia do Cirurgião Pediátrico",
+      "Dia Mundial de Cuidados Paliativos",
+      "Dia Mundial da Artrite Reumatoide",
+      "2.º Dia Mundial das Aves Migratórias",
+      "Dia Nacional do Lobo-Guará"
+    ]
+  },
+  "13/10/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Nacional do Fisioterapeuta e do Terapeuta Ocupacional",
+      "Dia Internacional para a Redução de Desastres",
+      "Dia Mundial da Trombose"
+    ]
+  },
+  "14/10/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Meteorologista",
+      "Dia Mundial da Normalização",
+      "Dia Nacional da Pecuária"
+    ]
+  },
+  "15/10/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Professor",
+      "Dia Mundial da Lavagem das Mãos",
+      "Dia Internacional das Mulheres Rurais",
+      "Dia do Educador Ambiental",
+      "Dia do Consumo Consciente",
+      "Dia Internacional da Mulher Rural",
+      "Dia do Médico Neurologista",
+      "Dia Mundial da Bengala Branca"
+    ]
+  },
+  "16/10/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia de São Geraldo",
+      "Dia do Chefe",
+      "Dia do Anestesiologista",
+      "Dia Mundial da Alimentação",
+      "Dia Mundial do Pão",
+      "Dia do Engenheiro de Alimentos",
+      "Dia Mundial da Coluna"
+    ]
+  },
+  "17/10/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia da Agricultura",
+      "Dia do Eletricista",
+      "Dia da Indústria Aeronáutica Brasileira",
+      "Dia do Profissional da Propaganda",
+      "Dia Internacional para a Erradicação da Pobreza",
+      "Dia da Música Popular Brasileira",
+      "Dia Nacional da Vacinação"
+    ]
+  },
+  "18/10/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Médico",
+      "Dia do Pintor",
+      "Dia do Estivador",
+      "Dia de São Lucas",
+      "Dia Mundial da Menopausa"
+    ]
+  },
+  "19/10/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Profissional de Informática",
+      "Dia do Guarda Noturno",
+      "Dia Nacional da Inovação",
+      "Dia do Operador de Caixa",
+      "Dia do Profissional de Tecnologia da Informação",
+      "Dia do Piauí",
+      "Dia Nacional de Combate à Sífilis e à Sífilis Congênita",
+      "Dia Internacional de Combate ao Câncer de Mama"
+    ]
+  },
+  "20/10/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial das Missões",
+      "Dia do Maquinista",
+      "Dia do Poeta",
+      "Dia do Arquivista",
+      "Dia Mundial do Controlador de Tráfego Aéreo",
+      "Dia Mundial da Osteoporose",
+      "Dia Mundial da Estatística",
+      "Dia Mundial de Combate ao Bullying"
+    ]
+  },
+  "21/10/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Nacional da Alimentação na Escola",
+      "Dia do Ecumenismo",
+      "Dia do Securitário",
+      "Dia do Podcast",
+      "Dia do Economista Doméstico",
+      "Dia Internacional da Maçã"
+    ]
+  },
+  "22/10/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Paraquedista",
+      "Dia do Enólogo",
+      "Dia Internacional de Atenção à Gagueira",
+      "Dia de São João Paulo II",
+      "Dia do Protesto Mundial contra o Uso do Eletrochoque"
+    ]
+  },
+  "23/10/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia da Força Aérea Brasileira",
+      "Dia do Aviador",
+      "Dia do Aposentado do Banco Central"
+    ]
+  },
+  "24/10/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Aniversário de Manaus",
+      "Aniversário de Goiânia",
+      "Dia das Nações Unidas",
+      "Dia Mundial do Desenvolvimento da Informação",
+      "Dia Mundial de Combate à Poliomielite"
+    ]
+  },
+  "25/10/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Dentista",
+      "Dia de São Crispim e São Crispiniano",
+      "Dia de São Frei Galvão",
+      "Dia do Sapateiro",
+      "Dia Nacional da Saúde Bucal",
+      "Dia do Engenheiro Civil",
+      "Dia Nacional de Combate ao Preconceito contra as Pessoas com Nanismo",
+      "Dia da Democracia",
+      "Dia Mundial do Macarrão",
+      "Dia Mundial da Ópera"
+    ]
+  },
+  "26/10/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Trabalhador da Construção Civil",
+      "Dia do Metroviário"
+    ]
+  },
+  "27/10/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial do Patrimônio Audiovisual",
+      "Dia Mundial da Terapia Ocupacional",
+      "Dia Nacional de Mobilização Pró-Saúde da População Negra",
+      "Dia Nacional de Luta pelos Direitos das Pessoas com Doenças Falciformes",
+      "Dia do Engenheiro Agrícola",
+      "Segundo Turno das Eleições Municipais 2024"
+    ]
+  },
+  "28/10/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Servidor Público PONTO FACULTATIVO",
+      "Dia da Engenharia da Aeronáutica",
+      "Dia Internacional da Animação",
+      "Dia do Flamenguista",
+      "Dia de São Judas Tadeu",
+      "Dia Mundial do Judô"
+    ]
+  },
+  "29/10/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Mundial da Psoríase",
+      "Dia Nacional do Livro",
+      "Dia Mundial do AVC",
+      "Dia Nacional da Prevenção da Lavagem de Dinheiro"
+    ]
+  },
+  "30/10/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Comerciário",
+      "Dia do Material Bélico",
+      "Dia do Ginecologista",
+      "Dia do Fisiculturista",
+      "Dia do Balconista",
+      "Dia da Decoração",
+      "Dia do Designer de Interiores",
+      "Dia da Merendeira Escolar",
+      "Dia Nacional de Luta contra o Reumatismo"
+    ]
+  },
+  "31/10/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia das Bruxas - Halloween",
+      "Dia do Saci",
+      "Dia Nacional da Poesia",
+      "Dia Mundial da Poupança",
+      "Dia da Reforma Protestante",
+      "Dia da Dona de Casa",
+      "Dia Nacional da Proclamação do Evangelho",
+      "Dia Mundial das Cidades"
+    ]
+  },
+  "01/11/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de Todos os Santos",
+      "Dia Mundial do Veganismo"
+    ]
+  },
+  "02/11/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Finados FERIADO",
+      "Dia dos Mortos",
+      "Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas"
+    ]
+  },
+  "03/11/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Nacional do Quilo",
+      "Dia da Instituição do Direito de Voto da Mulher"
+    ]
+  },
+  "04/11/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Oficial da Reserva (R/2)",
+      "Dia da Favela",
+      "Dia do Inventor"
+    ]
+  },
+  "05/11/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia do Designer Gráfico",
+      "Dia do Radioamador",
+      "Dia do Protético",
+      "Dia Nacional da Língua Portuguesa",
+      "Dia do Técnico em Eletrônica",
+      "Dia de Atenção Mundial para Tsunamis",
+      "Dia da Cultura e da Ciência",
+      "Dia do Técnico Agrícola",
+      "Dia de São Zacarias e Santa Isabel"
+    ]
+  },
+  "06/11/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Internacional para a Prevenção da Exploração do Meio Ambiente em Tempos de Guerra e Conflito Armado",
+      "Dia Nacional do Amigo da Marinha do Brasil",
+      "Dia da Malária nas Américas",
+      "Dia Nacional do Riso"
+    ]
+  },
+  "07/11/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Radialista"
+    ]
+  },
+  "08/11/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Radiologista",
+      "Dia Mundial do Urbanismo"
+    ]
+  },
+  "09/11/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Hoteleiro",
+      "Dia Nacional dos Clubes Esportivos Sociais",
+      "Dia Internacional contra o Fascismo e o Antissemitismo",
+      "Dia do Técnico em Eletrotécnica"
+    ]
+  },
+  "10/11/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+      "Dia Nacional do Trigo",
+      "Dia Nacional de Prevenção e Combate à Surdez",
+      "Dia Mundial do Ceratocone",
+      "Dia Nacional do Intensivista"
+    ]
+  },
+  "11/11/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Fim da Primeira Guerra Mundial (1918)"
+    ]
+  },
+  "12/11/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia dos Supermercados",
+      "Dia do Diretor Escolar",
+      "Dia Mundial da Pneumonia",
+      "Dia Mundial do Hip Hop",
+      "Dia Nacional do Inventor",
+      "Dia da Indústria Automobilística",
+      "Dia do Pantanal",
+      "Dia Nacional de Prevenção das Arritmias Cardíacas e Morte Súbita"
+    ]
+  },
+  "13/11/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Mundial da Gentileza"
+    ]
+  },
+  "14/11/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia do Bandeirante",
+      "Dia Nacional da Alfabetização",
+      "Dia Mundial do Diabetes",
+      "Dia Mundial da Qualidade",
+      "Dia Mundial da Usabilidade"
+    ]
+  },
+  "15/11/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Proclamação da República FERIADO",
+      "Dia do Esporte Amador",
+      "Dia do Joalheiro",
+      "Dia Nacional da Umbanda"
+    ]
+  },
+  "16/11/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Internacional da Tolerância",
+      "Dia Nacional dos Ostomizados",
+      "Dia Nacional de Atenção à Dislexia",
+      "Dia Nacional da Amazônia Azul"
+    ]
+  },
+  "17/11/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia da Criatividade",
+      "Dia Internacional dos Estudantes",
+      "Dia em Memória das Vítimas de Acidentes de Trânsito e seus Familiares",
+      "Dia Mundial da Prematuridade",
+      "Dia Nacional de Combate à Tuberculose",
+      "Dia Mundial de Combate ao Câncer de Próstata"
+    ]
+  },
+  "18/11/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Conselheiro Tutelar",
+      "Dia Nacional do Notário e do Registrador",
+      "Dia Nacional de Combate ao Racismo"
+    ]
+  },
+  "19/11/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia da Bandeira",
+      "Dia Mundial do Vaso Sanitário",
+      "Dia Internacional do Homem",
+      "Dia do Empreendedorismo Feminino"
+    ]
+  },
+  "20/11/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Nacional de Zumbi e da Consciência Negra FERIADO",
+      "Dia do Biomédico",
+      "Dia do Auditor Interno",
+      "Dia da Industrialização da África",
+      "Dia Universal da Criança",
+      "Dia Mundial da Doença Pulmonar Obstrutiva Crônica",
+      "Dia do Técnico em Contabilidade",
+      "Dia Internacional de Memória Trans"
+    ]
+  },
+  "21/11/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Nacional da Homeopatia",
+      "Dia Mundial da Saudação",
+      "Dia Mundial da Filosofia",
+      "Dia Mundial da Televisão",
+      "Dia do Médico Homeopata",
+      "Dia Nacional do Compromisso com a Criança, o Adolescente e a Educação"
+    ]
+  },
+  "22/11/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Músico",
+      "Aniversário de Niterói",
+      "Dia da Comunidade Libanesa no Brasil"
+    ]
+  },
+  "23/11/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Engenheiro Eletricista",
+      "Dia Nacional de Combate ao Câncer Infanto-Juvenil",
+      "Dia Nacional de Combate ao Dengue"
+    ]
+  },
+  "24/11/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Quadro Auxiliar de Oficiais (QAO)"
+    ]
+  },
+  "25/11/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Doador Voluntário de Sangue",
+      "Dia Internacional para a Eliminação da Violência Contra as Mulheres",
+      "Dia da Baiana de Acarajé",
+      "Dia da Madrinha"
+    ]
+  },
+  "26/11/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Interamericano do Ministério Público"
+    ]
+  },
+  "27/11/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Técnico de Segurança no Trabalho",
+      "Dia Nacional de Combate ao Câncer",
+      "Dia de Nossa Senhora das Graças",
+      "Dia Nacional de Luta contra o Câncer de Mama",
+      "Dia do Engenheiro de Segurança do Trabalho"
+    ]
+  },
+  "28/11/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Mundial de Ação de Graças",
+      "Dia do Soldado Desconhecido"
+    ]
+  },
+  "29/11/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Black Friday",
+      "Dia Internacional de Solidariedade com o Povo da Palestina",
+      "Dia Nacional da Onça-Pintada"
+    ]
+  },
+  "30/11/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia do Evangélico",
+      "Dia em Memória de todas as Vítimas de Armas Químicas",
+      "Dia da Amizade Argentino-Brasileira",
+      "Dia de Celebração da Amizade Brasil-Argentina",
+      "Dia do Estatuto da Terra",
+      "Dia do Teólogo"
+    ]
+  },
+  "01/12/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia Internacional da Luta contra a AIDS",
+      "Dia do Numismata"
+    ]
+  },
+  "02/12/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia Nacional das Relações Públicas",
+      "Dia Nacional do Samba",
+      "Dia da Astronomia",
+      "Dia Pan-americano da Saúde",
+      "Cyber Monday",
+      "Dia Internacional para a Abolição da Escravatura",
+      "Aniversário de Minas Gerais"
+    ]
+  },
+  "03/12/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia Internacional da Pessoa com Deficiência",
+      "Dia Internacional do Deficiente Físico",
+      "Dia de São Francisco Xavier",
+      "Dia do Delegado de Polícia",
+      "Dia Nacional de Combate à Pirataria e à Biopirataria"
+    ]
+  },
+  "04/12/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia Mundial da Propaganda",
+      "Dia do Pedicuro",
+      "Dia do Orientador Educacional",
+      "Dia do Perito Criminal Oficial",
+      "Dia do Trabalhador nas Minas de Carvão"
+    ]
+  },
+  "05/12/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia Mundial do Solo",
+      "Dia Internacional do Voluntário",
+      "Aniversário de Maceió",
+      "Dia Nacional da Pastoral da Criança",
+      "Dia do Médico de Família e Comunidade",
+      "Dia da Acessibilidade"
+    ]
+  },
+  "06/12/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Nacional de Mobilização dos Homens pelo Fim da Violência contra as Mulheres",
+      "Dia Nacional do Extensionista Rural",
+      "Dia de São Nicolau"
+    ]
+  },
+  "07/12/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Internacional da Aviação Civil",
+      "Dia Nacional da Assistência Social",
+      "Dia Nacional da Silvicultura",
+      "Dia do Médico Cirurgião Plástico"
+    ]
+  },
+  "08/12/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia da Família",
+      "Dia da Justiça",
+      "Dia da Imaculada Conceição",
+      "Dia do Colunista Social",
+      "Dia da Bíblia"
+    ]
+  },
+  "09/12/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Fonoaudiólogo",
+      "Dia do Alcoólico Recuperado",
+      "Dia Internacional contra a Corrupção",
+      "Dia Internacional de Homenagem e Dignidade das Vítimas do Crime de Genocídio",
+      "Dia da Criança Especial"
+    ]
+  },
+  "10/12/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia da Declaração Universal dos Direitos Humanos",
+      "Dia Universal do Palhaço",
+      "Dia da Inclusão Social",
+      "Dia de São Melquíades"
+    ]
+  },
+  "11/12/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Engenheiro",
+      "Dia Internacional das Montanhas",
+      "Dia Nacional da Câmara Júnior",
+      "Dia Nacional das APAEs",
+      "Dia do Tango",
+      "Dia de São Dâmaso"
+    ]
+  },
+  "12/12/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia de Nossa Senhora de Guadalupe",
+      "Aniversário de Belo Horizonte",
+      "Dia do Plano Nacional de Educação",
+      "Dia Internacional da Saúde Universal",
+      "Dia Internacional da Neutralidade"
+    ]
+  },
+  "13/12/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia de Santa Luzia",
+      "Dia Nacional do Cego",
+      "Dia do Marinheiro",
+      "Dia do Ótico",
+      "Dia do Engenheiro Avaliador e Perito de Engenharia",
+      "Dia do Pedreiro",
+      "Dia Nacional do Forró",
+      "Dia do Lapidador"
+    ]
+  },
+  "14/12/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Nacional do Ministério Público",
+      "Dia Nacional de Combate à Pobreza",
+      "Dia do Engenheiro de Pesca",
+      "Dia do Médico Alergista"
+    ]
+  },
+  "15/12/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Dia do Arquiteto",
+      "Dia Nacional da Economia Solidária",
+      "Dia do Jardineiro"
+    ]
+  },
+  "16/12/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Reservista",
+      "Dia do Teatro Amador",
+      "Dia de Santa Adelaide"
+    ]
+  },
+  "17/12/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Dia de São Lázaro",
+      "Dia do Engenheiro de Produção",
+      "Dia Nacional do Bioma Pampa",
+      "Dia do Pastor Presbiteriano"
+    ]
+  },
+  "18/12/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Dia do Museólogo",
+      "Dia de São Zózimo",
+      "Dia Internacional dos Migrantes",
+      "Dia da Língua Árabe"
+    ]
+  },
+  "19/12/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Aniversário da Emancipação do Paraná"
+    ]
+  },
+  "20/12/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia do Mecânico",
+      "Dia Internacional da Solidariedade Humana"
+    ]
+  },
+  "21/12/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Início do Verão - Solstício de Verão",
+      "Dia do Atleta"
+    ]
+  },
+  "22/12/2024": {
+    "weekday": "DOM",
+    "holidays": [
+      "Aniversário da Criação de Rondônia"
+    ]
+  },
+  "23/12/2024": {
+    "weekday": "SEG",
+    "holidays": [
+      "Dia do Vizinho"
+    ]
+  },
+  "24/12/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Véspera de Natal (Ponto Facultativo após as 14h) PONTO FACULTATIVO",
+      "Dia do Órfão"
+    ]
+  },
+  "25/12/2024": {
+    "weekday": "QUA",
+    "holidays": [
+      "Natal FERIADO",
+      "Aniversário da cidade de Natal",
+      "Hanukkah"
+    ]
+  },
+  "26/12/2024": {
+    "weekday": "QUI",
+    "holidays": [
+      "Dia de São Estevão",
+      "Dia da Lembrança"
+    ]
+  },
+  "27/12/2024": {
+    "weekday": "SEX",
+    "holidays": [
+      "Dia Internacional de Preparação Epidemiológica"
+    ]
+  },
+  "28/12/2024": {
+    "weekday": "SÁB",
+    "holidays": [
+      "Dia Nacional do Cooperativismo de Crédito",
+      "Dia do Salva-vidas",
+      "Aniversário de Rio Branco",
+      "Dia do Petroquímico",
+      "Dia da Marinha Mercante"
+    ]
+  },
+  "31/12/2024": {
+    "weekday": "TER",
+    "holidays": [
+      "Véspera de Ano-Novo (Ponto Facultativo após as 14h) PONTO FACULTATIVO",
+      "Dia de São Silvestre"
+    ]
+  }
+}
+
+
+
+

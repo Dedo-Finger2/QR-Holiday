@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#feriado-info {
+  text-align: center;
+}
+
+#feriados-list {
+  margin-top: 2rem;
+  padding: 0;
+}
+
+#date {
+  font-size: 3rem;
+}
+
+#status {
+  font-size: 1.7rem;
+}
+
+.hide {
+  display: none;
+}
